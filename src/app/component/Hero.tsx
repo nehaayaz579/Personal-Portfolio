@@ -26,7 +26,7 @@ const Hero = () => {
           <div className="w-[100px] h-[2px] bg-purple-700"></div>
           <p className="mb-8 pt-4 leading-relaxed text-purple-500">
             Neha Ayaz is a passionate web developer and UI/UX designer with a
-            Master's degree in Applied Mathematics. With a strong foundation in
+            Masters degree in Applied Mathematics. With a strong foundation in
             both design and development, Neha specializes in creating responsive
             and visually engaging websites using technologies like HTML, CSS,
             Tailwind CSS, and Next.js. Proficient in Python, Neha has the
